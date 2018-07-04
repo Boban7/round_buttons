@@ -2,7 +2,7 @@ body{
 	margin: 0;
 	background: linear-gradient(gold, yellow);
 	background-attachment: fixed; /* - 	important 
-	to stach gradient to all height instead of repeat it*/
+	to stretch gradient to all height instead of repeat it*/
 }
 
 h1, p{text-align: center;}
